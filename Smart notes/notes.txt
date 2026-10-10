@@ -1,0 +1,7 @@
+IMPORTANT: Finish Python project by midnight.
+Junk line: Random thoughts 123...
+TODO: Buy milk and bread.
+Just a random note without priority prefix.
+IMPORTANT: Call client regarding project update.
+TODO: Review pull request on GitHub.
+Junk line: Ignore this text.
